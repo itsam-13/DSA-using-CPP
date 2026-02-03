@@ -11,5 +11,5 @@ int main()
     cout << "Remainder is: " << remainder << endl;
     int quotient = dividend / divisor;
     remainder =  dividend - (quotient * divisor);
-    cout << "Remainder calculated using subtraction method is: " << remainder << endl;
+    cout << "Remainder calculated using subtraction method is: " << remainder << endl; 
 }
