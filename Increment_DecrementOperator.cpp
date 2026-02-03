@@ -5,7 +5,7 @@ int main()
     int x = 10; // Declaring an integer variable and initializing it with a value
     cout << "Initial value of x: " << x << endl; // Printing the initial value of x
     x++; // Incrementing x by 1 (post-increment)
-    cout << "Value of x (x++): " << x++ << endl; // Printing the value of x after post-increment
+    cout << "Value of x (x++): " << x++ << endl; // Printing the value of x at post-increment
     cout << "Value of x after post-increment (x++): " << x << endl; // Printing the value of x after post-increment
     
     ++x; // Incrementing x by 1 (pre-increment) 
