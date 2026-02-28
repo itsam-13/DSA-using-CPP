@@ -5,11 +5,7 @@ int main()
     int n;
     cout << "Enter the number of lines : ";
     cin >>n;
-    
-    //1111
-    //1222
-    //1233
-    //1234
+
     for(int i = 1; i <= 2*n-1; i++){
         for (int j = 1; j <= 2*n-1; j++){
             int a = i;
